@@ -6,13 +6,13 @@
 - Video Compression : NeRV<br>
 
 ---
-### Presentations at International Conferences (1st author)
+### Presentations at Conferences (1st author)
 
 - [NeRFに基づくフレーム補間手法の品質改善](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEICE_D-11A-26.pdf) ([IEICE2024](https://www.ieice.org/jpn_r/activities/taikai/general/2024/))<br>
 
 - NeRFおよび特徴マップに基づくフレーム補間手法の特性評価 ([PCSJ/IMPS2023](https://www.pcsj-imps.org/archive/2023.html))
 
-### Presentations at International Conferences (others)
+### Presentations at Conferences (others)
 - [エッジ・色情報を反映したプロンプトベースの画像符号化](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEICE_D-11A-27.pdf) ([IEICE2024](https://www.ieice.org/jpn_r/activities/taikai/general/2024/))<br>
 
 - [The Effect of Edge Information in Stable Diffusion Applied to Image Coding](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEVC_LBP-15.pdf) ([IEVC2024](https://www.iieej.org/en/ievc2024/))<br>
