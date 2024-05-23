@@ -1,16 +1,25 @@
-## Hi there 👋
+### Research Topic
+[Google Scholar](https://scholar.google.com/citations?user=I_9AZyYAAAAJ)<br> 
 
-<!--
-**th359/th359** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&emsp; Implicit Neural Representation &emsp;:&emsp; NeRF, NeRV<br>
 
-Here are some ideas to get you started:
+---
+### Presentations at International Conferences (1st author)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [NeRFに基づくフレーム補間手法の品質改善](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEICE_D-11A-26.pdf)<br>
+
+- NeRFおよび特徴マップに基づくフレーム補間手法の特性評価
+
+### Presentations at International Conferences (others)
+- [エッジ・色情報を反映したプロンプトベースの画像符号化](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEICE_D-11A-27.pdf)<br>
+
+- [The Effect of Edge Information in Stable Diffusion Applied to Image Coding](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEVC_LBP-15.pdf)<br>
+
+- Prompt-based Image Coding with Edge Information
+
+- Post-processing Based Image Coding via Stable Diffusion
+
+---
+
+### Languages and Tools
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
