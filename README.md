@@ -2,8 +2,8 @@
 [Google Scholar](https://scholar.google.com/citations?user=I_9AZyYAAAAJ)<br> 
 
 &emsp; Implicit Neural Representation<br>
-- Novel View Synthesis : NeRF<br>
-- Video Compression : NeRV<br>
+- Novel View Synthesis<br>
+- Video Compression<br>
 
 ---
 ### Presentations at Conferences (1st author)
