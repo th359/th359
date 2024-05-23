@@ -1,7 +1,9 @@
 ### Research Topic
 [Google Scholar](https://scholar.google.com/citations?user=I_9AZyYAAAAJ)<br> 
 
-&emsp; Implicit Neural Representation&emsp;:&emsp;NeRF, NeRV<br>
+&emsp; Implicit Neural Representation<br>
+- Novel View Synthesis : NeRF<br>
+- Video Compression : NeRV<br>
 
 ---
 ### Presentations at International Conferences (1st author)
