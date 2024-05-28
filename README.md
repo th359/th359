@@ -4,6 +4,7 @@
 &emsp; Implicit Neural Representation<br>
 - Novel View Synthesis<br>
 - Video Compression<br>
+- Frame Interpolation<br>
 
 ---
 ### Presentations at Conferences (1st author)
