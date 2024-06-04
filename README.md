@@ -8,6 +8,7 @@
 
 ---
 ### Presentations at Conferences (1st author)
+- Implicit Neural Representation for Videos Based on Residual Connection (under review)
 
 - [NeRFに基づくフレーム補間手法の品質改善](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEICE_D-11A-26.pdf) ([IEICE2024](https://www.ieice.org/jpn_r/activities/taikai/general/2024/))<br>
 
