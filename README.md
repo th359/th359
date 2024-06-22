@@ -15,6 +15,8 @@
 - NeRFおよび特徴マップに基づくフレーム補間手法の特性評価 ([PCSJ/IMPS2023](https://www.pcsj-imps.org/archive/2023.html))
 
 ### Presentations at Conferences (others)
+- 画素値の動的変化に基づく動画像表現([ITE annual conv. 2024](https://www.ite.or.jp/annual/2024/))(発表予定)<br>
+
 - [エッジ・色情報を反映したプロンプトベースの画像符号化](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEICE_D-11A-27.pdf) ([IEICE2024](https://www.ieice.org/jpn_r/activities/taikai/general/2024/))<br>
 
 - [The Effect of Edge Information in Stable Diffusion Applied to Image Coding](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEVC_LBP-15.pdf) ([IEVC2024](https://www.iieej.org/en/ievc2024/))<br>
