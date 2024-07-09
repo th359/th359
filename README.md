@@ -10,7 +10,7 @@
 ### Presentations at Conferences (1st author)
 - Video Representation Using High Frequency Components and Feature Differences (under review)
 
-- [Implicit Neural Representation for Videos Based on Residual Connection](https://arxiv.org/abs/2407.06164) (under review)
+- [Implicit Neural Representation for Videos Based on Residual Connection](https://arxiv.org/abs/2407.06164) [[code](https://github.com/th359/RC-HNeRV)] (under review)
 
 - [NeRFに基づくフレーム補間手法の品質改善](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEICE_D-11A-26.pdf) ([IEICE2024](https://www.ieice.org/jpn_r/activities/taikai/general/2024/))<br>
 
