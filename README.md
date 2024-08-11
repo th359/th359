@@ -8,7 +8,7 @@
 
 ---
 ### Presentations at Conferences (1st author)
-- Video Representation Using High Frequency Components and Feature Differences (under review)
+- Neural Video Representation for Redundancy Reduction and Consistency Preservation (under review)
 
 - [Implicit Neural Representation for Videos Based on Residual Connection](https://arxiv.org/abs/2407.06164) [[code](https://github.com/th359/RC-HNeRV)] ([GCCE2024](https://www.ieee-gcce.org/2024/index.html))<br>
 
