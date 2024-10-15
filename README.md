@@ -8,7 +8,7 @@
 
 ---
 ### Presentations at Conferences (1st author)
-- [Neural Video Representation for Redundancy Reduction and Consistency Preservation](https://arxiv.org/pdf/2409.18497) (under review)
+- [Neural Video Representation for Redundancy Reduction and Consistency Preservation](https://arxiv.org/pdf/2409.18497) [[code](https://github.com/th359/HF-HNeRV)] (under review)
 
 - 空間と時間的一貫性のある動画表現の一検討 ([PCSJ/IMPS2024](https://www.pcsj-imps.org/archive/2024.html)) (発表予定) 
 
