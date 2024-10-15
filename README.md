@@ -10,7 +10,7 @@
 ### Presentations at Conferences (1st author)
 - [Neural Video Representation for Redundancy Reduction and Consistency Preservation](https://arxiv.org/pdf/2409.18497) (under review)
 
--空間と時間的一貫性のある動画表現の一検討 ([PCSJ/IMPS2024](https://www.pcsj-imps.org/archive/2024.html)) (発表予定) 
+- 空間と時間的一貫性のある動画表現の一検討 ([PCSJ/IMPS2024](https://www.pcsj-imps.org/archive/2024.html)) (発表予定) 
 
 - [Implicit Neural Representation for Videos Based on Residual Connection](https://arxiv.org/abs/2407.06164) [[code](https://github.com/th359/RC-HNeRV)] ([GCCE2024](https://www.ieee-gcce.org/2024/index.html))<br>
 
