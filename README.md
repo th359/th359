@@ -9,7 +9,7 @@
 ---
 ### Presentations at Conferences (1st author)
 - Neural Video Representation for Redundancy Reduction and Consistency Preservation (under review) <br>
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/th359/HF-HNeRV)
+[<img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">](https://github.com/th359/HF-HNeRV)
 [![arXiv](https://img.shields.io/badge/arXiv-2409.18497-b31b1b.svg)](https://arxiv.org/abs/2409.18497)
 
 - 空間と時間的一貫性のある動画表現の一検討 (発表予定) <br>
@@ -17,7 +17,7 @@
 
 - Implicit Neural Representation for Videos Based on Residual Connection <br>
 [[GCCE2024](https://www.ieee-gcce.org/2024/index.html)]
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/th359/RC-HNeRV)
+[<img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">](https://github.com/th359/RC-HNeRV)
 [![arXiv](https://img.shields.io/badge/arXiv-2407.06164-b31b1b.svg)](https://arxiv.org/abs/2407.06164)
 
 - NeRFに基づくフレーム補間手法の品質改善 <br>
