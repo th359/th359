@@ -8,28 +8,39 @@
 
 ---
 ### Presentations at Conferences (1st author)
-- [Neural Video Representation for Redundancy Reduction and Consistency Preservation](https://arxiv.org/pdf/2409.18497) [[code](https://github.com/th359/HF-HNeRV)] (under review)
+- Neural Video Representation for Redundancy Reduction and Consistency Preservation (under review) <br>
+[[arXiv](https://arxiv.org/pdf/2409.18497)] [[code](https://github.com/th359/HF-HNeRV)]
 
-- 空間と時間的一貫性のある動画表現の一検討 ([PCSJ/IMPS2024](https://www.pcsj-imps.org/archive/2024.html)) (発表予定) 
+- 空間と時間的一貫性のある動画表現の一検討 (発表予定) <br>
+[[PCSJ/IMPS2024](https://www.pcsj-imps.org/archive/2024.html)]
 
-- [Implicit Neural Representation for Videos Based on Residual Connection](https://arxiv.org/pdf/2407.06164) [[code](https://github.com/th359/RC-HNeRV)] ([GCCE2024](https://www.ieee-gcce.org/2024/index.html))<br>
+- Implicit Neural Representation for Videos Based on Residual Connection <br>
+  [[GCCE2024](https://www.ieee-gcce.org/2024/index.html)] [[arXiv](https://arxiv.org/pdf/2407.06164)] [[code](https://github.com/th359/RC-HNeRV)]
 
-- [NeRFに基づくフレーム補間手法の品質改善](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEICE_D-11A-26.pdf) ([IEICE2024](https://www.ieice.org/jpn_r/activities/taikai/general/2024/))<br>
+- NeRFに基づくフレーム補間手法の品質改善 <br>
+[[IEICE2024](https://www.ieice.org/jpn_r/activities/taikai/general/2024/)] [[paper](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEICE_D-11A-26.pdf)]
 
-- NeRFおよび特徴マップに基づくフレーム補間手法の特性評価 ([PCSJ/IMPS2023](https://www.pcsj-imps.org/archive/2023.html))
+- NeRFおよび特徴マップに基づくフレーム補間手法の特性評価 <br>
+[[PCSJ/IMPS2023](https://www.pcsj-imps.org/archive/2023.html)]
 
 ### Presentations at Conferences (others)
-- 映像信号の埋め込みにおけるピクセル位置とパッチサイズの影響 ([PCSJ/IMPS2024](https://www.pcsj-imps.org/archive/2024.html)) (発表予定) 
+- 映像信号の埋め込みにおけるピクセル位置とパッチサイズの影響 (発表予定) <br>
+[[PCSJ/IMPS2024](https://www.pcsj-imps.org/archive/2024.html)]
 
-- 画素値の動的変化に基づく動画像表現([ITE annual conv. 2024](https://www.ite.or.jp/annual/2024/))<br>
+- 画素値の動的変化に基づく動画像表現 <br>
+[[ITE annual conv. 2024](https://www.ite.or.jp/annual/2024/)]
 
-- [エッジ・色情報を反映したプロンプトベースの画像符号化](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEICE_D-11A-27.pdf) ([IEICE2024](https://www.ieice.org/jpn_r/activities/taikai/general/2024/))<br>
+- エッジ・色情報を反映したプロンプトベースの画像符号化 <br>
+[[IEICE2024](https://www.ieice.org/jpn_r/activities/taikai/general/2024/)] [[paper](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEICE_D-11A-27.pdf)]
 
-- [The Effect of Edge Information in Stable Diffusion Applied to Image Coding](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEVC_LBP-15.pdf) ([IEVC2024](https://www.iieej.org/en/ievc2024/))<br>
+- The Effect of Edge Information in Stable Diffusion Applied to Image Coding <br>
+  [[IEVC2024](https://www.iieej.org/en/ievc2024/)] [[paper](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEVC_LBP-15.pdf)]
 
-- Prompt-based Image Coding with Edge Information ([PCSJ/IMPS2023](https://www.pcsj-imps.org/archive/2023.html))
+- Prompt-based Image Coding with Edge Information <br>
+  [[PCSJ/IMPS2023](https://www.pcsj-imps.org/archive/2023.html)]
 
-- Post-processing Based Image Coding via Stable Diffusion ([PCSJ/IMPS2023](https://www.pcsj-imps.org/archive/2023.html))
+- Post-processing Based Image Coding via Stable Diffusion <br>
+[[PCSJ/IMPS2023](https://www.pcsj-imps.org/archive/2023.html)]
 
 ---
 
