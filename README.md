@@ -22,7 +22,7 @@
 
 - NeRFに基づくフレーム補間手法の品質改善 <br>
   [<img src="https://img.shields.io/badge/IEICE 2024-lightgray.svg?style=flat&logo=java">](https://www.ieice.org/jpn_r/activities/taikai/general/2024/)
-  [[paper](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEICE_D-11A-26.pdf)]
+  [<img src="https://img.shields.io/badge/paper-B31B1B.svg?style=flat&logo=java">](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEICE_D-11A-26.pdf)
 
 - NeRFおよび特徴マップに基づくフレーム補間手法の特性評価 <br>
   [<img src="https://img.shields.io/badge/PCSJ/IMPS 2023-lightgray.svg?style=flat&logo=java">](https://www.pcsj-imps.org/archive/2023.html)
@@ -36,11 +36,11 @@
 
 - エッジ・色情報を反映したプロンプトベースの画像符号化 <br>
   [<img src="https://img.shields.io/badge/IEICE 2024-lightgray.svg?style=flat&logo=java">](https://www.ieice.org/jpn_r/activities/taikai/general/2024/)
-  [[paper](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEICE_D-11A-27.pdf)]
+  [<img src="https://img.shields.io/badge/paper-B31B1B.svg?style=flat&logo=java">](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEICE_D-11A-27.pdf)
 
 - The Effect of Edge Information in Stable Diffusion Applied to Image Coding <br>
   [<img src="https://img.shields.io/badge/IEVC 2024-lightgray.svg?style=flat&logo=java">](https://www.iieej.org/en/ievc2024/)
-  [[paper](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEVC_LBP-15.pdf)]
+  [<img src="https://img.shields.io/badge/paper-B31B1B.svg?style=flat&logo=java">](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEVC_LBP-15.pdf)
 
 - Prompt-based Image Coding with Edge Information <br>
   [<img src="https://img.shields.io/badge/PCSJ/IMPS 2023-lightgray.svg?style=flat&logo=java">](https://www.pcsj-imps.org/archive/2023.html)
