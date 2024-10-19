@@ -33,6 +33,7 @@
 
 - 画素値の動的変化に基づく動画像表現 <br>
   [<img src="https://img.shields.io/badge/ITE annual conv. 2024-lightgray.svg?style=flat&logo=java">](https://www.ite.or.jp/annual/2024/)
+  [<img src="https://img.shields.io/badge/paper-B31B1B.svg?style=flat&logo=java">](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024ITE_shindo.pdf)
 
 - エッジ・色情報を反映したプロンプトベースの画像符号化 <br>
   [<img src="https://img.shields.io/badge/IEICE 2024-lightgray.svg?style=flat&logo=java">](https://www.ieice.org/jpn_r/activities/taikai/general/2024/)
