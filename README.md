@@ -9,7 +9,7 @@
 ---
 ### Presentations at Conferences (1st author)
 - Neural Video Representation for Redundancy Reduction and Consistency Preservation (under review) <br>
-  [<img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">](https://github.com/th359/HF-HNeRV)
+  [<img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">](https://github.com/th359/NVR-RRCP)
   [![arXiv](https://img.shields.io/badge/arXiv-2409.18497-b31b1b.svg)](https://arxiv.org/abs/2409.18497)
 
 - 空間と時間的一貫性のある動画表現の一検討 (発表予定) <br>
