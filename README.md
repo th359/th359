@@ -8,7 +8,8 @@
 
 ---
 ### Presentations at Conferences (1st author)
-- Neural Video Representation for Redundancy Reduction and Consistency Preservation (ICCE2025) <br>
+- Neural Video Representation for Redundancy Reduction and Consistency Preservation <br>
+  [<img src="https://img.shields.io/badge/ICCE 2025-lightgray.svg?style=flat&logo=java">](https://icce.org/2025/)
   [<img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">](https://github.com/th359/NVR-RRCP)
   [![arXiv](https://img.shields.io/badge/arXiv-2409.18497-b31b1b.svg)](https://arxiv.org/abs/2409.18497)
 
