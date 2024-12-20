@@ -17,6 +17,7 @@
 - Implicit Neural Representation for Videos Based on Residual Connection <br>
   [<img src="https://img.shields.io/badge/GCCE 2024-lightgray.svg?style=flat&logo=java">](https://www.ieee-gcce.org/2024/index.html)
   [<img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">](https://github.com/th359/RC-HNeRV)
+  [<img src="https://img.shields.io/badge/IEEE Xplore-17445A.svg?style=flat&logo=java">](https://ieeexplore.ieee.org/document/10760573)
   [![arXiv](https://img.shields.io/badge/arXiv-2407.06164-b31b1b.svg)](https://arxiv.org/abs/2407.06164)
 
 - 空間と時間的一貫性のある動画表現の一検討 <br>
