@@ -1,6 +1,7 @@
-### Research Topic
+### About me
 [[webpage](https://th359.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=I_9AZyYAAAAJ)] [[LinkedIn](https://www.linkedin.com/in/taiga-hayami-b53b80317/)]<br> 
 
+### Research Topic
 &emsp; Implicit Neural Representation<br>
 - Video Representation<br>
 - Video Compression<br>
