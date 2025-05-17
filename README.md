@@ -10,6 +10,9 @@
 
 ---
 ### Presentations at Conferences (1st author)
+- SR-NeRV: Improving Embedding Efficiency of Neural Video Representation via Super-Resolution <br>
+  [under review]
+
 - Neural Video Representation for Redundancy Reduction and Consistency Preservation <br>
   [<img src="https://img.shields.io/badge/ICCE 2025-lightgray.svg?style=flat&logo=java">](https://icce.org/2025/)
   [<img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">](https://github.com/th359/NVR-RRCP)
