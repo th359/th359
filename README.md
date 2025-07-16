@@ -10,8 +10,12 @@
 
 ---
 ### Presentations at Conferences (1st author)
-- SR-NeRV: Improving Embedding Efficiency of Neural Video Representation via Super-Resolution <br>
+- Structure-Preserving Patch Decoding for Efficient Neural Video Representation <br>
   [under review]
+
+- SR-NeRV: Improving Embedding Efficiency of Neural Video Representation via Super-Resolution <br>
+  [<img src="https://img.shields.io/badge/GCCE 2025-lightgray.svg?style=flat&logo=java">](https://www.ieee-gcce.org/2025/index.html)
+  [![arXiv](https://img.shields.io/badge/arXiv-2409.18497-b31b1b.svg)](https://arxiv.org/abs/2505.00046)
 
 - Neural Video Representation for Redundancy Reduction and Consistency Preservation <br>
   [<img src="https://img.shields.io/badge/ICCE 2025-lightgray.svg?style=flat&logo=java">](https://icce.org/2025/)
@@ -36,6 +40,15 @@
   [<img src="https://img.shields.io/badge/PCSJ/IMPS 2023-lightgray.svg?style=flat&logo=java">](https://www.pcsj-imps.org/archive/2023.html)
 
 ### Presentations at Conferences (others)
+- Semantic Reconstruction for Unified Detection of Local and Logical Anomalies <br>
+  [<img src="https://img.shields.io/badge/GCCE 2025-lightgray.svg?style=flat&logo=java">](https://www.ieee-gcce.org/2025/index.html)
+
+- Clinically Prioritized Attention-Based Fusion of Multi-Plane Knee MRI for Robust Injury Detection <br>
+  [<img src="https://img.shields.io/badge/GCCE 2025-lightgray.svg?style=flat&logo=java">](https://www.ieee-gcce.org/2025/index.html)
+
+- Enhancing Continuous Emotion Recognition via Visually Diverse Frame Selection <br>
+  [<img src="https://img.shields.io/badge/GCCE 2025-lightgray.svg?style=flat&logo=java">](https://www.ieee-gcce.org/2025/index.html)
+
 - 画素値の動的変化に基づく動画像表現 <br>
   [<img src="https://img.shields.io/badge/ITE annual conv. 2024-lightgray.svg?style=flat&logo=java">](https://www.ite.or.jp/annual/2024/)
   [<img src="https://img.shields.io/badge/paper-B31B1B.svg?style=flat&logo=java">](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024ITE_shindo.pdf)
