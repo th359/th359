@@ -18,6 +18,9 @@
   [<img src="https://img.shields.io/badge/GCCE 2025-lightgray.svg?style=flat&logo=java">](https://www.ieee-gcce.org/2025/index.html)
   [![arXiv](https://img.shields.io/badge/arXiv-2409.18497-b31b1b.svg)](https://arxiv.org/abs/2505.00046)
 
+- 構造保持パッチデコードの時間方向拡張による効率的映像表現 <br>
+  [<img src="https://img.shields.io/badge/PCSJ/IMPS 2025-lightgray.svg?style=flat&logo=java">](https://www.pcsj-imps.org/archive/2025.html)
+
 - Neural Video Representation for Redundancy Reduction and Consistency Preservation <br>
   [<img src="https://img.shields.io/badge/ICCE 2025-lightgray.svg?style=flat&logo=java">](https://icce.org/2025/)
   [<img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">](https://github.com/th359/NVR-RRCP)
@@ -49,6 +52,12 @@
 
 - Enhancing Continuous Emotion Recognition via Visually Diverse Frame Selection <br>
   [<img src="https://img.shields.io/badge/GCCE 2025-lightgray.svg?style=flat&logo=java">](https://www.ieee-gcce.org/2025/index.html)
+
+- 局所サイズを適応調整する点群メッシュ化手法 <br>
+  [<img src="https://img.shields.io/badge/PCSJ/IMPS 2025-lightgray.svg?style=flat&logo=java">](https://www.pcsj-imps.org/archive/2025.html)
+
+- 鏡面反射を考慮した 3D Convex Splatting による高リアリティレンダリング <br>
+  [<img src="https://img.shields.io/badge/PCSJ/IMPS 2025-lightgray.svg?style=flat&logo=java">](https://www.pcsj-imps.org/archive/2025.html)
 
 - 画素値の動的変化に基づく動画像表現 <br>
   [<img src="https://img.shields.io/badge/ITE annual conv. 2024-lightgray.svg?style=flat&logo=java">](https://www.ite.or.jp/annual/2024/)
