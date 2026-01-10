@@ -17,6 +17,7 @@
 - SR-NeRV: Improving Embedding Efficiency of Neural Video Representation via Super-Resolution <br>
   [<img src="https://img.shields.io/badge/GCCE 2025-lightgray.svg?style=flat&logo=java">](https://www.ieee-gcce.org/2025/index.html)
   [<img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">](https://github.com/th359/SR-NeRV.git)
+  [<img src="https://img.shields.io/badge/IEEE Xplore-17445A.svg?style=flat&logo=java">](https://ieeexplore.ieee.org/document/11275406)
   [![arXiv](https://img.shields.io/badge/arXiv-2409.18497-b31b1b.svg)](https://arxiv.org/abs/2505.00046)
 
 - 構造保持パッチデコードの時間方向拡張による効率的映像表現 <br>
