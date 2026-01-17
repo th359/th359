@@ -47,6 +47,10 @@
   [<img src="https://img.shields.io/badge/PCSJ/IMPS 2023-lightgray.svg?style=flat&logo=java">](https://www.pcsj-imps.org/archive/2023.html)
 
 ### Presentations at Conferences (others)
+- Accurate and Efficient Surface Reconstruction from Point Clouds via Geometry-Aware Local Adaptation <br>
+  [<img src="https://img.shields.io/badge/IEVC 2024-lightgray.svg?style=flat&logo=java">](https://www.iieej.org/en/ievc2026/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2407.06164-b31b1b.svg)](https://arxiv.org/abs/2511.08233)
+
 - Semantic Reconstruction for Unified Detection of Local and Logical Anomalies <br>
   [<img src="https://img.shields.io/badge/GCCE 2025-lightgray.svg?style=flat&logo=java">](https://www.ieee-gcce.org/2025/index.html)
 
