@@ -53,12 +53,15 @@
 
 - Semantic Reconstruction for Unified Detection of Local and Logical Anomalies <br>
   [<img src="https://img.shields.io/badge/GCCE 2025-lightgray.svg?style=flat&logo=java">](https://www.ieee-gcce.org/2025/index.html)
+  [<img src="https://img.shields.io/badge/IEEE Xplore-17445A.svg?style=flat&logo=java">](https://ieeexplore.ieee.org/document/11275329)
 
 - Clinically Prioritized Attention-Based Fusion of Multi-Plane Knee MRI for Robust Injury Detection <br>
   [<img src="https://img.shields.io/badge/GCCE 2025-lightgray.svg?style=flat&logo=java">](https://www.ieee-gcce.org/2025/index.html)
+  [<img src="https://img.shields.io/badge/IEEE Xplore-17445A.svg?style=flat&logo=java">](https://ieeexplore.ieee.org/document/11274947)
 
 - Enhancing Continuous Emotion Recognition via Visually Diverse Frame Selection <br>
   [<img src="https://img.shields.io/badge/GCCE 2025-lightgray.svg?style=flat&logo=java">](https://www.ieee-gcce.org/2025/index.html)
+  [<img src="https://img.shields.io/badge/IEEE Xplore-17445A.svg?style=flat&logo=java">](https://ieeexplore.ieee.org/document/11274966)
 
 - 局所サイズを適応調整する点群メッシュ化手法 <br>
   [<img src="https://img.shields.io/badge/PCSJ/IMPS 2025-lightgray.svg?style=flat&logo=java">](https://www.pcsj-imps.org/archive/2025.html)
