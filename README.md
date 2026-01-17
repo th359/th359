@@ -48,7 +48,7 @@
 
 ### Presentations at Conferences (others)
 - Accurate and Efficient Surface Reconstruction from Point Clouds via Geometry-Aware Local Adaptation <br>
-  [<img src="https://img.shields.io/badge/IEVC 2024-lightgray.svg?style=flat&logo=java">](https://www.iieej.org/en/ievc2026/)
+  [<img src="https://img.shields.io/badge/IEVC 2026-lightgray.svg?style=flat&logo=java">](https://www.iieej.org/en/ievc2026/)
   [![arXiv](https://img.shields.io/badge/arXiv-2407.06164-b31b1b.svg)](https://arxiv.org/abs/2511.08233)
 
 - Semantic Reconstruction for Unified Detection of Local and Logical Anomalies <br>
